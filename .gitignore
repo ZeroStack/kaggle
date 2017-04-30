@@ -8,3 +8,9 @@ sberbank_russianhousingmarket/input/sample_submission.csv.zip
 sberbank_russianhousingmarket/input/test.csv.zip
 
 sberbank_russianhousingmarket/input/train.csv.zip
+
+sberbank_russianhousingmarket/input/macro.csv
+
+sberbank_russianhousingmarket/input/test.csv
+
+sberbank_russianhousingmarket/input/train.csv
